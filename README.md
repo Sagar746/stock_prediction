@@ -9,6 +9,12 @@ print('Welcome to the Stock prediction software.')
 console.log('hello world');
 ```
 
+<ul>
+  <p>Program</p>
+  <li>Python</li>
+  <li>Js</li>
+</ul>
+
 Redirected to [Google](https://www.google.com)
 
 <div>
