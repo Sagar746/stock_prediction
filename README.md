@@ -5,6 +5,10 @@ print('Welcome to the Stock prediction software.')
 
 ```
 
+```javascript
+console.log('hello world');
+```
+
 Redirected to [Google](https://www.google.com)
 
 <div>
