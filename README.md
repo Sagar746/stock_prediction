@@ -17,7 +17,7 @@ console.log('hello world');
 
 Redirected to [Google](https://www.google.com)
 
-<div>
+<div position="relative">
   <p float="left">
     Up-to-date stock market data coverage from CNN. Get the latest updates on US markets, world markets, stock quotes, crypto, commodities and currencies.  
   </p>
